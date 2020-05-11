@@ -11,6 +11,7 @@ Features:
 
 Plugins Used:
 - JSONObject, used to handle easy and fast json files, GitHub: https://github.com/mtschoen/JSONObject
-- UnityStandAloneFileBrowser, easy and simple plugin to popup dialog windows depending on platoform, GitHub: https://github.com/gkngkc/UnityStandaloneFileBrowser
+- UnityStandAloneFileBrowser, easy and simple plugin to popup dialog windows depending on platoform, 
+  GitHub: https://github.com/gkngkc/UnityStandaloneFileBrowser
 
 
